@@ -1,0 +1,20 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZmDdFes3IWkFps6dIKdyJ5CSo/fKlFOKpLLEnJPrN9RtDzUfnJ8sQizun2tmdy+N8m0qPeKpk54owb1QpEtCmQ==",
+  "success": true,
+  "projectFilePath": "/Users/patrickstolc/RiderProjects/RedisExample/LeaderboardService/LeaderboardService.csproj",
+  "expectedPackageFiles": [
+    "/Users/patrickstolc/.nuget/packages/microsoft.aspnetcore.openapi/7.0.15/microsoft.aspnetcore.openapi.7.0.15.nupkg.sha512",
+    "/Users/patrickstolc/.nuget/packages/microsoft.extensions.apidescription.server/6.0.5/microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "/Users/patrickstolc/.nuget/packages/microsoft.extensions.logging.abstractions/6.0.0/microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512",
+    "/Users/patrickstolc/.nuget/packages/microsoft.openapi/1.4.3/microsoft.openapi.1.4.3.nupkg.sha512",
+    "/Users/patrickstolc/.nuget/packages/pipelines.sockets.unofficial/2.2.8/pipelines.sockets.unofficial.2.2.8.nupkg.sha512",
+    "/Users/patrickstolc/.nuget/packages/stackexchange.redis/2.7.33/stackexchange.redis.2.7.33.nupkg.sha512",
+    "/Users/patrickstolc/.nuget/packages/swashbuckle.aspnetcore/6.5.0/swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "/Users/patrickstolc/.nuget/packages/swashbuckle.aspnetcore.swagger/6.5.0/swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "/Users/patrickstolc/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.5.0/swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "/Users/patrickstolc/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.5.0/swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512",
+    "/Users/patrickstolc/.nuget/packages/system.io.pipelines/5.0.1/system.io.pipelines.5.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

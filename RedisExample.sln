@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AnalyticsService", "AnalyticsService\AnalyticsService.csproj", "{843D5B33-0DB6-4EFC-B73D-DE4A47C5F9B3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FibonacciService", "FibonacciService\FibonacciService.csproj", "{E1A7C759-E472-48FC-861D-C7CA6F0A9E4A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeaderboardService", "LeaderboardService\LeaderboardService.csproj", "{1F853DA8-E2F0-47B9-AB3D-7E5CF0683EA5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{843D5B33-0DB6-4EFC-B73D-DE4A47C5F9B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{843D5B33-0DB6-4EFC-B73D-DE4A47C5F9B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{843D5B33-0DB6-4EFC-B73D-DE4A47C5F9B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{843D5B33-0DB6-4EFC-B73D-DE4A47C5F9B3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E1A7C759-E472-48FC-861D-C7CA6F0A9E4A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E1A7C759-E472-48FC-861D-C7CA6F0A9E4A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E1A7C759-E472-48FC-861D-C7CA6F0A9E4A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E1A7C759-E472-48FC-861D-C7CA6F0A9E4A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1F853DA8-E2F0-47B9-AB3D-7E5CF0683EA5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F853DA8-E2F0-47B9-AB3D-7E5CF0683EA5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F853DA8-E2F0-47B9-AB3D-7E5CF0683EA5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F853DA8-E2F0-47B9-AB3D-7E5CF0683EA5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
